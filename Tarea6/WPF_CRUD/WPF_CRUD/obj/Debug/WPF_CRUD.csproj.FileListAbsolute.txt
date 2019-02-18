@@ -1,0 +1,69 @@
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.exe.config
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.exe
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.pdb
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\bin\Debug\MySql.Data.dll
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\bin\Debug\MySql.Data.xml
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csprojAssemblyReference.cache
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\MainWindow.g.cs
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\App.g.cs
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD_MarkupCompile.cache
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD_MarkupCompile.lref
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\MainWindow.baml
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.g.resources
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.Properties.Resources.resources
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.GenerateResource.cache
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.CopyComplete
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.exe
+C:\Users\JavierBuenfil\source\repos\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.pdb
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.exe.config
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.exe
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.pdb
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\bin\Debug\MySql.Data.dll
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\bin\Debug\MySql.Data.xml
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csprojAssemblyReference.cache
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\MainWindow.g.cs
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\App.g.cs
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD_MarkupCompile.cache
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD_MarkupCompile.lref
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\MainWindow.baml
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.g.resources
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.Properties.Resources.resources
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.GenerateResource.cache
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.CopyComplete
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.exe
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.pdb
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\AgregarWindow.g.cs
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\AgregarWindow.baml
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\Editar.g.cs
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\Editar.baml
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\Eliminar.g.cs
+C:\Users\Brito\Downloads\WPF_CRUD\WPF_CRUD\obj\Debug\Eliminar.baml
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.exe.config
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.exe
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\bin\Debug\WPF_CRUD.pdb
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\bin\Debug\MySql.Data.dll
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\bin\Debug\MySql.Data.xml
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csprojAssemblyReference.cache
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\Editar.g.cs
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\Eliminar.g.cs
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\MainWindow.g.cs
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\AgregarWindow.g.cs
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\App.g.cs
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD_MarkupCompile.cache
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD_MarkupCompile.lref
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\Editar.baml
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\Eliminar.baml
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\MainWindow.baml
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\AgregarWindow.baml
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.g.resources
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.Properties.Resources.resources
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.GenerateResource.cache
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.csproj.CopyComplete
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.exe
+C:\Users\Brito\Downloads\Tarea 3\WPF_CRUD\WPF_CRUD\obj\Debug\WPF_CRUD.pdb
