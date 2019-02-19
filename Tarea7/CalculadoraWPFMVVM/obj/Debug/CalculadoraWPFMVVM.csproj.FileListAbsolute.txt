@@ -1,0 +1,16 @@
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\bin\Debug\CalculadoraWPFMVVM.exe.config
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\bin\Debug\CalculadoraWPFMVVM.exe
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\bin\Debug\CalculadoraWPFMVVM.pdb
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\Views\MainWindow.g.cs
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\App.g.cs
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\CalculadoraWPFMVVM_MarkupCompile.cache
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\CalculadoraWPFMVVM_MarkupCompile.lref
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\Views\MainWindow.baml
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\CalculadoraWPFMVVM.g.resources
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\CalculadoraWPFMVVM.Properties.Resources.resources
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\CalculadoraWPFMVVM.csproj.GenerateResource.cache
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\CalculadoraWPFMVVM.csproj.CoreCompileInputs.cache
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\CalculadoraWPFMVVM.exe
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\CalculadoraWPFMVVM.pdb
+C:\Users\JuanCarlos\source\repos\CalculadoraWPFMVVM\CalculadoraWPFMVVM\obj\Debug\CalculadoraWPFMVVM.csprojAssemblyReference.cache
