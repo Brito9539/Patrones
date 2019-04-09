@@ -1,0 +1,15 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\bin\Debug\WpfChanges.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\bin\Debug\WpfChanges.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\bin\Debug\WpfChanges.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\WpfChanges.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\WpfChanges_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\WpfChanges_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\WpfChanges.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\WpfChanges.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\WpfChanges.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\WpfChanges.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\WpfChanges.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfChanges\WpfChanges\obj\Debug\WpfChanges.pdb
