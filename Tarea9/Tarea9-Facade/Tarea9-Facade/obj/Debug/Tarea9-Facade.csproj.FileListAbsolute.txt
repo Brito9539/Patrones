@@ -1,0 +1,7 @@
+C:\Users\Brito\source\repos\Tarea9-Facade\Tarea9-Facade\bin\Debug\Tarea9-Facade.exe.config
+C:\Users\Brito\source\repos\Tarea9-Facade\Tarea9-Facade\bin\Debug\Tarea9-Facade.exe
+C:\Users\Brito\source\repos\Tarea9-Facade\Tarea9-Facade\bin\Debug\Tarea9-Facade.pdb
+C:\Users\Brito\source\repos\Tarea9-Facade\Tarea9-Facade\obj\Debug\Tarea9-Facade.csprojAssemblyReference.cache
+C:\Users\Brito\source\repos\Tarea9-Facade\Tarea9-Facade\obj\Debug\Tarea9-Facade.csproj.CoreCompileInputs.cache
+C:\Users\Brito\source\repos\Tarea9-Facade\Tarea9-Facade\obj\Debug\Tarea9-Facade.exe
+C:\Users\Brito\source\repos\Tarea9-Facade\Tarea9-Facade\obj\Debug\Tarea9-Facade.pdb
