@@ -1,0 +1,32 @@
+C:\Users\user\source\repos\Tarea10\Tarea10\bin\Debug\Tarea10.exe.config
+C:\Users\user\source\repos\Tarea10\Tarea10\bin\Debug\Tarea10.exe
+C:\Users\user\source\repos\Tarea10\Tarea10\bin\Debug\Tarea10.pdb
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10_MarkupCompile.cache
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10_MarkupCompile.lref
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.g.resources
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.Properties.Resources.resources
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.exe
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.pdb
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\bin\Debug\Tarea10.exe.config
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\bin\Debug\Tarea10.exe
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\bin\Debug\Tarea10.pdb
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\Tarea10.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\Tarea10_MarkupCompile.cache
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\Tarea10_MarkupCompile.lref
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\Tarea10.g.resources
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\Tarea10.Properties.Resources.resources
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\Tarea10.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\Tarea10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\Tarea10.exe
+C:\Users\user\Desktop\Tarea 10\2\Tarea10\obj\Debug\Tarea10.pdb

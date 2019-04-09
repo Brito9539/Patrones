@@ -1,0 +1,15 @@
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\bin\Debug\WpfBasics.exe.config
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\bin\Debug\WpfBasics.exe
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\bin\Debug\WpfBasics.pdb
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\WpfBasics.csprojAssemblyReference.cache
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\MainWindow.g.cs
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\App.g.cs
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\WpfBasics_MarkupCompile.cache
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\WpfBasics_MarkupCompile.lref
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\MainWindow.baml
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\WpfBasics.g.resources
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\WpfBasics.Properties.Resources.resources
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\WpfBasics.csproj.GenerateResource.cache
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\WpfBasics.csproj.CoreCompileInputs.cache
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\WpfBasics.exe
+D:\Downloads\youtube-develop\WPF\01-WpfBasics\obj\Debug\WpfBasics.pdb
