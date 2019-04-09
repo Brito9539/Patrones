@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\bin\Debug\TendejonMVVM.exe.config
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\bin\Debug\TendejonMVVM.exe
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\bin\Debug\TendejonMVVM.pdb
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\App.g.cs
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\TendejonMVVM_MarkupCompile.cache
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\TendejonMVVM_MarkupCompile.lref
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\TendejonMVVM.g.resources
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\TendejonMVVM.Properties.Resources.resources
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\TendejonMVVM.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\TendejonMVVM.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\TendejonMVVM.exe
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\TendejonMVVM.pdb
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\UserControl\DPControl.g.cs
+C:\Users\user\source\repos\TendejonMVVM\TendejonMVVM\obj\Debug\UserControl\DPControl.baml

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\bin\Debug\Tarea11-3.exe.config
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\bin\Debug\Tarea11-3.exe
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\bin\Debug\Tarea11-3.pdb
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\Tarea11-3_MarkupCompile.cache
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\Tarea11-3_MarkupCompile.lref
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\Tarea11-3.g.resources
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\Tarea11_3.Properties.Resources.resources
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\Tarea11-3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\Tarea11-3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\Tarea11-3.exe
+C:\Users\user\source\repos\Tarea11-3\Tarea11-3\obj\Debug\Tarea11-3.pdb
