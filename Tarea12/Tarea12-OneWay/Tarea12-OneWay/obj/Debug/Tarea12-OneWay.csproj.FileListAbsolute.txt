@@ -1,0 +1,15 @@
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\Tarea12-OneWay.csprojAssemblyReference.cache
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\MainWindow.g.cs
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\App.g.cs
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\Tarea12-OneWay_MarkupCompile.cache
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\Tarea12-OneWay_MarkupCompile.lref
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\bin\Debug\Tarea12-OneWay.exe.config
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\bin\Debug\Tarea12-OneWay.exe
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\bin\Debug\Tarea12-OneWay.pdb
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\MainWindow.baml
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\Tarea12-OneWay.g.resources
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\Tarea12_OneWay.Properties.Resources.resources
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\Tarea12-OneWay.csproj.GenerateResource.cache
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\Tarea12-OneWay.csproj.CoreCompileInputs.cache
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\Tarea12-OneWay.exe
+C:\Users\Brito\source\repos\Tarea12-OneWay\Tarea12-OneWay\obj\Debug\Tarea12-OneWay.pdb

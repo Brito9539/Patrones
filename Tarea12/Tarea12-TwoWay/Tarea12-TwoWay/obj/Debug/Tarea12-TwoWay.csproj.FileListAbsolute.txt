@@ -1,0 +1,15 @@
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\bin\Debug\Tarea12-TwoWay.exe.config
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\bin\Debug\Tarea12-TwoWay.exe
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\bin\Debug\Tarea12-TwoWay.pdb
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\Tarea12-TwoWay.csprojAssemblyReference.cache
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\MainWindow.g.cs
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\App.g.cs
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\Tarea12-TwoWay_MarkupCompile.cache
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\Tarea12-TwoWay_MarkupCompile.lref
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\MainWindow.baml
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\Tarea12-TwoWay.g.resources
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\Tarea12_TwoWay.Properties.Resources.resources
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\Tarea12-TwoWay.csproj.GenerateResource.cache
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\Tarea12-TwoWay.csproj.CoreCompileInputs.cache
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\Tarea12-TwoWay.exe
+C:\Users\Brito\source\repos\Tarea12-TwoWay\Tarea12-TwoWay\obj\Debug\Tarea12-TwoWay.pdb
