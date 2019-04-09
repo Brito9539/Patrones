@@ -1,0 +1,17 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\bin\Debug\WpfUserControls.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\bin\Debug\WpfUserControls.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\bin\Debug\WpfUserControls.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\UserControls\Login.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\WpfUserControls_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\WpfUserControls_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\UserControls\Login.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\WpfUserControls.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\WpfUserControls.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\WpfUserControls.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\WpfUserControls.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\WpfUserControls.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\WpfUserControls.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfUserControls\WpfUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
